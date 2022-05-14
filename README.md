@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LiHouDe
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning treap
+- 🌱 I’m currently learning`Old Driver Tree(Chtholly Tree)`
 
 <!---
 LiHouDe/LiHouDe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
